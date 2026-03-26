@@ -1,0 +1,25 @@
+@font-face {
+	font-family: "Baldur";
+	src: url("src/assets/Baldur/Baldur.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Casual Memories";
+	src: url("src/assets/Casual Memories/Casual Memories.ttf") format("truetype");
+}
+:root {
+	--color-bg-dark: #744979;
+	--color-bg-dark-50: #74497980;
+	--color-bg-light: #d0a1d3;
+	--color-bg-light-50: #d0a1d380;
+	--color-accent: #f0d794;
+	--color-font: #e0a40b;
+	--color-danger: #b84028;
+	--color-gold-dark: #9c6f08;
+	--color-shadow: #1a0f20;
+	--color-bg-deeper: #2e1a35;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
