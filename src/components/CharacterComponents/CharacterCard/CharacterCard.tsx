@@ -2,7 +2,7 @@ import "./CharacterCard.css";
 function CharacterCard(props: any) {
 	return (
 		<div
-			className="charCard"
+			className={`charCard ${props.isActive ? "is-active" : ""}`}
 			style={{ "--glow-color": props.glowColor } as React.CSSProperties}
 			onMouseEnter={props.onMouseEnter}
 			onMouseLeave={props.onMouseLeave}

@@ -1,11 +1,12 @@
 @font-face {
 	font-family: "Baldur";
-	src: url("src/assets/Baldur/Baldur.ttf") format("truetype");
+	src: url("src/assets/fonts/Baldur/Baldur.ttf") format("truetype");
 }
 
 @font-face {
 	font-family: "Casual Memories";
-	src: url("src/assets/Casual Memories/Casual Memories.ttf") format("truetype");
+	src: url("src/assets/fonts/Casual Memories/Casual Memories.ttf")
+		format("truetype");
 }
 :root {
 	--color-bg-dark: #744979;
