@@ -13,14 +13,14 @@ Créer une plateforme claire et interactive pour explorer toutes les données du
 ### Front-end
 
 * React
-* TypeScript *(si tu l’utilises, sinon enlève)*
-* CSS / (ou Tailwind si c’est le cas)
+* TypeScript 
+* CSS
 
 ### Back-end *(en cours de développement)*
 
 * API REST personnalisée
-* Node.js / Express *(à adapter selon ce que tu fais)*
-* Base de données (MySQL / MongoDB / autre)
+* Node.js / Express 
+* Base de données MySQL 
 
 ---
 
