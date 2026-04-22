@@ -36,12 +36,10 @@ Créer une plateforme claire et interactive pour explorer toutes les données du
 
 ## 🧪 En cours / Roadmap
 
-* [ ] Création de l’API
-* [ ] Ajout d’une base de données complète
-* [ ] Système de filtres avancés
-* [ ] Optimisation des performances
-* [ ] Ajout d’un système de favoris
-
+* [ ] 🔌 Développement d’une API REST personnalisée pour centraliser toutes les données du site
+* [ ] 🔐 Mise en place d’un système d’authentification (connexion / inscription)
+* [ ] 🗄️ Intégration d’une base de données pour gérer les contenus (personnages, objets, etc.)
+* [ ] 🔎 Amélioration des filtres et de la recherche
 ---
 
 ## 💡 Pourquoi ce projet ?
