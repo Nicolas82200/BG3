@@ -1,16 +1,62 @@
-# React + Vite
+# 🧙 Baldur’s Gate 3 – Wiki Interactive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application web dédiée à l’univers de **Baldur’s Gate 3**, permettant de consulter facilement des informations sur le jeu : personnages, classes, équipements, mécaniques, etc.
 
-Currently, two official plugins are available:
+## 🚀 Objectif
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Créer une plateforme claire et interactive pour explorer toutes les données du jeu, avec une expérience utilisateur fluide et moderne.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Stack technique
 
-## Expanding the ESLint configuration
+### Front-end
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* TypeScript *(si tu l’utilises, sinon enlève)*
+* CSS / (ou Tailwind si c’est le cas)
+
+### Back-end *(en cours de développement)*
+
+* API REST personnalisée
+* Node.js / Express *(à adapter selon ce que tu fais)*
+* Base de données (MySQL / MongoDB / autre)
+
+---
+
+## ⚙️ Fonctionnalités
+
+* 🔍 Recherche et filtrage de contenu
+* 📚 Affichage détaillé (personnages, classes, objets…)
+* ⚡ Interface dynamique et responsive
+* 🔗 Connexion à une API personnalisée
+* 🧠 Organisation des données côté serveur (à venir)
+
+---
+
+## 🧪 En cours / Roadmap
+
+* [ ] Création de l’API
+* [ ] Ajout d’une base de données complète
+* [ ] Système de filtres avancés
+* [ ] Optimisation des performances
+* [ ] Ajout d’un système de favoris
+
+---
+
+## 💡 Pourquoi ce projet ?
+
+Ce projet me permet de :
+
+* Structurer une application React complète
+* Concevoir une API et gérer des données complexes
+* Travailler sur l’expérience utilisateur
+* Approfondir mes compétences en développement full-stack
+
+---
+
+## 📍 Auteur
+
+Nicolas – Développeur web
+📌 Basé en Occitanie
+🔗 GitHub : https://github.com/Nicolas82200
